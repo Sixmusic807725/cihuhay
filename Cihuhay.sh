@@ -39,7 +39,7 @@ else
 
 sleep 2
 
-sh cihuhay.sh
+sh Cihuhay.sh
 
 fi
 
@@ -58,7 +58,7 @@ else
 
 sleep 2
 
-sh cihuhay.sh
+sh Cihuhay.sh
 
 fi
 
@@ -70,4 +70,4 @@ clear
 
 #Process Tools
 
-sh cihuhay1.sh
+sh Cihuhay1.sh
